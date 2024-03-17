@@ -18,7 +18,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -26,29 +26,45 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Assignment and Communication
 - Working the Issue
 - Resolution
+_________________________________
 
-<h2>Lifecycle Stages</h2>
+## Lifecycle Stages - Intake
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Below is the Customer/End-User experience creating a ticket to submit to the help desk. ⬇️
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![3BF22D5A-D74C-43BB-A0D5-DE40B3B0A828_1_201_a](https://github.com/stevelloyd76/ticket-lifecycle/assets/162848869/844019e5-823e-4664-8cdd-b52c1091d68c)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+The customer has the option to input their data and related Hot Topic to submit a ticket. ⬇️
+
+![757CACAA-602B-475A-A3B6-4E3C4504533C_1_201_a](https://github.com/stevelloyd76/ticket-lifecycle/assets/162848869/4d4b716d-fdb8-4fb0-a3c0-a58cfed8393a)
+
+After submission, the customer will receive a notification letting them know that their ticket/request has been received.
+
+When a ticket is created, it will be assigned to an Agent or a Team based on the Department or Help Topic listed in the column. Alternatively, it can be assigned to an Agent listed in the column. This assignment process must be completed within a specific timeframe.
+______________________________________
+
+![826B91BF-EF27-4DD5-8054-BA96AC4F1291_1_201_a](https://github.com/stevelloyd76/ticket-lifecycle/assets/162848869/6ecdff87-2428-440a-9ce7-e1b29b871949)
+
+
+#### Working on the issue: 
+
+When the Help Desk Agent or admin logs in, they can now see the tickets that are available and have been assigned/not assigned. A ticket can be assigned automatically to themselves or to another team member. With the ticket, Agents communicate with the customer or end-user to resolve the ticket submitted.
+
+Agents have two options to update the status of a ticket. They can either update it manually or let the system update it automatically based on certain business rules.
+
+During the "Working the Issue(s)" stage, the requester will be informed about their ticket's status and provided with a detailed outline of the steps to find a potential solution.
+
+![BA5F9DD1-48D2-4EEB-84CF-DC695BCF7969_1_105_c](https://github.com/stevelloyd76/ticket-lifecycle/assets/162848869/26ed0d49-a4d3-426f-9638-efb92ce2af7a)
+
+##### Resoltuion:
+
+Finally, the ticket is either closed or marked as resolved when the issue is resolved. Since it reached a resolution, it will now be reflected in the 'closed' tickets column. However, it is important to note that this outcome may or may not align with the requester's desired outcome.
+
+
+
+
+
+
+
